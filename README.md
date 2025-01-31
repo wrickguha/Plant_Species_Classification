@@ -1,7 +1,7 @@
 # 🌱 Plant Species Classification using Random Forest & Streamlit
 
 ## 📖 Overview  
-This project focuses on classifying plant species using a Random Forest classifier trained on a dataset of plant images or features. The model is integrated into a user-friendly web application built with Streamlit, allowing users to upload plant images (or input features) and receive real-time predictions about the species. This repository contains the code, model, and deployment pipeline for the classification system.
+This project focuses on classifying plant species using a Random Forest classifier trained on a dataset of plant images or features. The model is integrated into a user-friendly web application built with Streamlit, allowing users for input features receive real-time predictions about the species. This repository contains the code, model, and deployment pipeline for the classification system.
 
 ## 🚀Features
 
