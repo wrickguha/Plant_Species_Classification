@@ -10,7 +10,7 @@ Machine Learning Model: Utilizes the Random Forest classifier for accurate plant
 
 Interactive Web App: Built with Streamlit for an easy-to-use interface.
 
-User Input Options: Allows predictions via image uploads or manual feature entry.
+User Input Options: Allows predictions via manual feature entry.
 
 Data Preprocessing: Includes feature extraction and data normalization.
 
