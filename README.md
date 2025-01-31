@@ -14,7 +14,7 @@ User Input Options: Allows predictions via manual feature entry.
 
 Data Preprocessing: Includes feature extraction and data normalization.
 
-Deployment Ready: Can be hosted on platforms like Streamlit Cloud or Heroku.
+Deployment Ready: Can be hosted on platforms like Streamlit Cloud.
 
 ## 🛠️ Installation  
 1. **Clone the repository**:  
